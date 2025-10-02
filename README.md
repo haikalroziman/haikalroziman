@@ -8,7 +8,7 @@ Hello! I'm Haikal, a 21-year-old **Third-Year Architecture Student** at **Univer
 
 ## 🌟 Passion & Focus
 
-My passion lies at the core of architecture—**exploring the systems and logic that govern how buildings function and relate to their context.** As an architecture student, I particularly enjoy diving into:
+My passion lies at the core of architecture,**exploring the systems and logic that govern how buildings function and relate to their context.** As an architecture student, I particularly enjoy diving into:
 * **Sustainable and context-driven design solutions.**
 * **The technical integration of building systems and structure.**
 * **Computational workflows that streamline the design process.**
