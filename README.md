@@ -34,7 +34,6 @@ Here are a few projects that showcase my design and technical skills:
 * **[Project Title 1]:** *[Brief one-line description of the project and its focus, e.g., A mixed-use development focusing on passive cooling strategies.]*
 * **[Project Title 2]:** *[Brief one-line description, e.g., Low-cost housing design employing modular construction techniques.]*
 * **[Project Title 3]:** *[Brief one-line description, e.g., Urban park masterplan with a focus on community engagement.]*
-* **Research on Penjara Besar Johor (Kota Jail):** *Measured drawing and historical analysis of Kota Jail's, focusing on documenting and interpreting the building's original structure.*
-
+* **[Research on Penjara Besar Johor (Kota Jail)](https://github.com/haikalroziman/Measured-Drawing-Kota-Jail):** *Measured drawing and historical analysis of Kota Jail's, focusing on documenting and interpreting the building's original structure.*
 ***
 *Connect with me to discuss architectural challenges or collaborations!*
